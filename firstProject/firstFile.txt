@@ -1,1 +1,6 @@
 Hi this is my first file
+
+now im going to writ todos list .
+
+1.Learn what is git and github?
+2.Practice git ?
